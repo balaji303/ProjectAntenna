@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+M.N.HARI
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:latex.cst?3397bb4ee7c90a25cb78b46f54137705?18493:numberofparameters=1:port=1>mode=1>zre=0>zim=0:::d
+[Comment]
