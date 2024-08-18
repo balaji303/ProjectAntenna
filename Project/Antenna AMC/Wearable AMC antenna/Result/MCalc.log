@@ -1,0 +1,207 @@
+DESKTOP-8974FMF: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 2018 Mar 28 (Wed): 13:02:30
+                 <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 
+DESKTOP-8974FMF: ===============================
+                 Processing CAD model
+                 Version 2014.0 (build 20140224)
+                 2018 Mar 28 (Wed): 13:02:33
+                 ===============================
+                 
+==================================================================================================
+== CST Matrix Calculation Priority Log                                                          ==
+==================================================================================================
+ 
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Priority:   1, shape   5: Antenna/Layer 1:Styrofoam, material: Styrofoam
+Priority:   1, shape   6: Antenna/Layer 1:Substrate, material: latex
+Priority:   1, shape   7: Antenna/Layer 2:1, material: AMC
+Priority:   1, shape   8: Antenna/Layer 2:1_1, material: AMC
+Priority:   1, shape   9: Antenna/Layer 2:1_1_1, material: AMC
+Priority:   1, shape  10: Antenna/Layer 2:1_1_2, material: AMC
+Priority:   1, shape  11: Antenna/Layer 2:1_2, material: AMC
+Priority:   1, shape  12: Antenna/Layer 2:1_2_1, material: AMC
+Priority:   1, shape  13: Antenna/Layer 2:1_2_2, material: AMC
+Priority:   1, shape  14: Antenna/Layer 2:1_3, material: AMC
+Priority:   1, shape  15: Antenna/Layer 2:1_4, material: AMC
+Priority:   1, shape  16: Antenna/Layer 2:substrate, material: latex
+Priority:   1, shape  33: Antenna/Layer 3:Substrate, material: latex
+Priority:   2, shape   1: Antenna/Layer 1:1, material: Copper (pure)
+Priority:   2, shape   2: Antenna/Layer 1:2, material: Copper (pure)
+Priority:   2, shape   3: Antenna/Layer 1:3, material: Copper (pure)
+Priority:   2, shape   4: Antenna/Layer 1:4, material: Copper (pure)
+Priority:   2, shape  17: Antenna/Layer 3:1, material: Copper (pure)
+Priority:   2, shape  18: Antenna/Layer 3:1_1, material: Copper (pure)
+Priority:   2, shape  19: Antenna/Layer 3:1_1_1, material: Copper (pure)
+Priority:   2, shape  20: Antenna/Layer 3:1_1_2, material: Copper (pure)
+Priority:   2, shape  21: Antenna/Layer 3:1_1_3, material: Copper (pure)
+Priority:   2, shape  22: Antenna/Layer 3:1_2, material: Copper (pure)
+Priority:   2, shape  23: Antenna/Layer 3:1_2_1, material: Copper (pure)
+Priority:   2, shape  24: Antenna/Layer 3:1_2_2, material: Copper (pure)
+Priority:   2, shape  25: Antenna/Layer 3:1_2_3, material: Copper (pure)
+Priority:   2, shape  26: Antenna/Layer 3:1_3, material: Copper (pure)
+Priority:   2, shape  27: Antenna/Layer 3:1_3_1, material: Copper (pure)
+Priority:   2, shape  28: Antenna/Layer 3:1_3_2, material: Copper (pure)
+Priority:   2, shape  29: Antenna/Layer 3:1_3_3, material: Copper (pure)
+Priority:   2, shape  30: Antenna/Layer 3:1_4, material: Copper (pure)
+Priority:   2, shape  31: Antenna/Layer 3:1_5, material: Copper (pure)
+Priority:   2, shape  32: Antenna/Layer 3:1_6, material: Copper (pure)
+ 
+==================================================================================================
+ 
+DESKTOP-8974FMF: =======================
+                 Finished CAD processing
+                 =======================
+                 
+DESKTOP-8974FMF: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 2018 Mar 28 (Wed): 13:02:37
+                 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 
+DESKTOP-8974FMF: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 2018 Mar 28 (Wed): 13:02:42
+                 <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 
+DESKTOP-8974FMF: ===============================
+                 Port preparation
+                 Version 2014.0 (build 20140224)
+                 2018 Mar 28 (Wed): 13:02:43
+                 ===============================
+                 
+DESKTOP-8974FMF: ==========================
+                 Finished port preparation.
+                 ==========================
+                 
+DESKTOP-8974FMF: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 2018 Mar 28 (Wed): 13:02:43
+                 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 
+DESKTOP-8974FMF: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 2018 Mar 28 (Wed): 13:02:46
+                 <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 
+DESKTOP-8974FMF: =========================================================================
+                 FPBA has been activated in order to support the given material properties
+                 =========================================================================
+                 
+DESKTOP-8974FMF: =======================================
+                 Matrix computation (FPBA)
+                 	[FPBA accuracy enhancement is enabled]
+                 Version 2014.0 (build 20140224)
+                 2018 Mar 28 (Wed): 13:02:46
+                 =======================================
+                 
+DESKTOP-8974FMF: ==================================
+                 Finished matrix computation (FPBA)
+                 ==================================
+                 
+DESKTOP-8974FMF: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 2018 Mar 28 (Wed): 13:03:07
+                 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 
+DESKTOP-8974FMF: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 2018 Mar 28 (Wed): 13:03:25
+                 <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                 
+DESKTOP-8974FMF: =========================================================================
+                 FPBA has been activated in order to support the given material properties
+                 =========================================================================
+                 
+DESKTOP-8974FMF: ===============================
+                 Processing CAD model
+                 Version 2014.0 (build 20140224)
+                 2018 Mar 28 (Wed): 13:03:27
+                 ===============================
+                 
+DESKTOP-8974FMF: =======================
+                 Finished CAD processing
+                 =======================
+                 
+DESKTOP-8974FMF: 1xN000: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                         2018 Mar 28 (Wed): 13:03:31
+                         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+DESKTOP-8974FMF: 1xN000: =======================================
+                         Matrix computation (FPBA)
+                         	[FPBA accuracy enhancement is enabled]
+                         Version 2014.0 (build 20140224)
+                         2018 Mar 28 (Wed): 13:03:31
+                         =======================================
+
+DESKTOP-8974FMF: 1xN000: ==================================
+                         Finished matrix computation (FPBA)
+                         ==================================
+
+DESKTOP-8974FMF: 1xN000: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                         2018 Mar 28 (Wed): 13:05:07
+                         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+DESKTOP-8974FMF: 1xN001: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                         2018 Mar 28 (Wed): 13:03:32
+                         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+DESKTOP-8974FMF: 1xN001: =======================================
+                         Matrix computation (FPBA)
+                         	[FPBA accuracy enhancement is enabled]
+                         Version 2014.0 (build 20140224)
+                         2018 Mar 28 (Wed): 13:03:32
+                         =======================================
+
+DESKTOP-8974FMF: 1xN001: ==================================
+                         Finished matrix computation (FPBA)
+                         ==================================
+
+DESKTOP-8974FMF: 1xN001: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                         2018 Mar 28 (Wed): 13:05:06
+                         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+DESKTOP-8974FMF: 1xN002: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                         2018 Mar 28 (Wed): 13:05:10
+                         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+DESKTOP-8974FMF: 1xN002: =======================================
+                         Matrix computation (FPBA)
+                         	[FPBA accuracy enhancement is enabled]
+                         Version 2014.0 (build 20140224)
+                         2018 Mar 28 (Wed): 13:05:10
+                         =======================================
+
+DESKTOP-8974FMF: 1xN002: ==================================
+                         Finished matrix computation (FPBA)
+                         ==================================
+
+DESKTOP-8974FMF: 1xN002: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                         2018 Mar 28 (Wed): 13:06:12
+                         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+DESKTOP-8974FMF: 1xN003: <<<<<<<<<<<<<<<<<<<<<<<<<<<
+                         2018 Mar 28 (Wed): 13:05:10
+                         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+DESKTOP-8974FMF: 1xN003: =======================================
+                         Matrix computation (FPBA)
+                         	[FPBA accuracy enhancement is enabled]
+                         Version 2014.0 (build 20140224)
+                         2018 Mar 28 (Wed): 13:05:10
+                         =======================================
+
+DESKTOP-8974FMF: 1xN003: ==================================
+                         Finished matrix computation (FPBA)
+                         ==================================
+
+DESKTOP-8974FMF: 1xN003: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                         2018 Mar 28 (Wed): 13:05:59
+                         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+DESKTOP-8974FMF: >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 2018 Mar 28 (Wed): 13:06:23
+                 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+                 
