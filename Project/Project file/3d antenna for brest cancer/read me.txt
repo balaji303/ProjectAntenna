@@ -1,0 +1,13 @@
+1.Open the SIGVIEW software.
+2.Go to Data discription and open data discription.
+3.Record the signal through the antenna connected to the system in various region of breast phantom.
+4.Save the recordings as wave files.
+5.Open the MATLAB Software and explore the demo program.
+6.Run the program with inputs as the two wave files.
+7.Save the output waveform graph.
+8.After saving the outputs,explore the diagnosis program and Run it .
+9.Give the inputs as the wave files.
+10.After executing the program the output graph for the comparison of the signals will be displayed,verify the outputs.
+
+
+  
